@@ -4,4 +4,8 @@ hello everyone, this is the group chat!
 lets see who commits changes first
 This is line added by himanshu
 
+am adding 1 more line to show df option in svn update with conflict
+
+This is line added by himanshu
+
 Adding another line at 9:35AM
